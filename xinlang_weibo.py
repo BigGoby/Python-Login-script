@@ -162,8 +162,8 @@ class LoginSinaWeibo:
 
 
 if __name__ == '__main__':
-    test_username = '17635194836'
-    test_password = 'whr15635318947'
+    test_username = 'Your Name'
+    test_password = 'Your Password'
     loginer = LoginSinaWeibo(username=test_username, password=test_password)
     # 开始执行登录操作
     login_result = loginer.login()
