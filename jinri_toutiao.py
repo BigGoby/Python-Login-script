@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Author : Leo
+# @Author : LuckyWang
 
 import requests
 from urllib.parse import urlparse, parse_qs
