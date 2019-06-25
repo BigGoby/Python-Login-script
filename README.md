@@ -14,10 +14,12 @@ https://www.douban.com/
 
     - 无验证码，密码明文提交
     
-   登录失败
+    
+    -登录失败
    ![Image text](https://github.com/BigGoby/Python-Login-script/raw/master/image/9.png)
     
-   登录成功
+    
+    -登录成功
    ![Image text](https://github.com/BigGoby/Python-Login-script/raw/master/image/10.png)
    
 ## 凤凰新闻
@@ -39,10 +41,10 @@ https://m.toutiao.com/
     验证码经过base64编码 可在浏览器中直接查看 / 或者使用 http://tool.chinaz.com/tools/imgtobase/ 进行解码
     说明: 为了对接第三方验证码处理平台 比如:百度Ai开放平台
     
-   登录失败:
+    -登录失败:
    ![Image text](https://github.com/BigGoby/Python-Login-script/raw/master/image/4.png)
     
-   登录成功:
+    -登录成功:
    ![Image text](https://github.com/BigGoby/Python-Login-script/raw/master/image/5.png)
     
 ## 搜狐新闻
@@ -51,10 +53,10 @@ https://m.passport.sohu.com/
     - 采用移动端浏览器Web页面进行登录
     - 无验证码，密码采用md5加密
     
-   登录失败:
+    -登录失败:
    ![Image text](https://github.com/BigGoby/Python-Login-script/raw/master/image/7.png)
     
-   登录成功:
+    -登录成功:
    ![Image text](https://github.com/BigGoby/Python-Login-script/raw/master/image/6.png)
     
  ## 新浪微博
@@ -63,13 +65,13 @@ https://m.passport.sohu.com/
     - 用户名和密码均加密后提交，其中密码采用rsa加密
     - 验证码下载到本地,人工输入,如有需求可更改
     
-   验证码输入:
+    -验证码输入:
    ![Image text](https://github.com/BigGoby/Python-Login-script/raw/master/image/1.png)
     
-   项目目录:
+    -项目目录:
    ![Image text](https://github.com/BigGoby/Python-Login-script/raw/master/image/2.png)
     
-   登录成功:
+    -登录成功:
    ![Image text](https://github.com/BigGoby/Python-Login-script/raw/master/image/3.png)
     
     
