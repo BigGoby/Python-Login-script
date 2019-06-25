@@ -7,7 +7,7 @@ https://media.itouchtv.cn/login
     - 提交信息时账号密码明文提交，无验证码
     - 登录后进行相关请求时需要生成sign，并且GET和POST请求时加密方式不一致
     
-    ![Image text](https://github.com/BigGoby/Python-Login-script/blob/raw/master/image/12.png)
+   ![Image text](https://github.com/BigGoby/Python-Login-script/blob/raw/master/image/12.png)
     
 ## 豆瓣电影
 https://www.douban.com/
@@ -15,10 +15,10 @@ https://www.douban.com/
     - 无验证码，密码明文提交
     
     登录失败
-    ![Image text](https://github.com/BigGoby/Python-Login-script/blob/raw/master/image/9.png)
+   ![Image text](https://github.com/BigGoby/Python-Login-script/blob/raw/master/image/9.png)
     
     登录成功
-    ![Image text](https://github.com/BigGoby/Python-Login-script/blob/raw/master/image/10.png)
+   ![Image text](https://github.com/BigGoby/Python-Login-script/blob/raw/master/image/10.png)
    
 ## 凤凰新闻
 https://id.ifeng.com/
@@ -40,10 +40,10 @@ https://m.toutiao.com/
     说明: 为了对接第三方验证码处理平台 比如:百度Ai开放平台
     
     登录失败:
-    ![Image text](https://github.com/BigGoby/Python-Login-script/blob/raw/master/image/4.png)
+   ![Image text](https://github.com/BigGoby/Python-Login-script/blob/raw/master/image/4.png)
     
     登录成功:
-    ![Image text](https://github.com/BigGoby/Python-Login-script/blob/raw/master/image/5.png)
+   ![Image text](https://github.com/BigGoby/Python-Login-script/blob/raw/master/image/5.png)
     
 ## 搜狐新闻
 https://m.passport.sohu.com/
@@ -52,10 +52,10 @@ https://m.passport.sohu.com/
     - 无验证码，密码采用md5加密
     
     登录失败:
-    ![Image text](https://github.com/BigGoby/Python-Login-script/blob/raw/master/image/7.png)
+   ![Image text](https://github.com/BigGoby/Python-Login-script/blob/raw/master/image/7.png)
     
     登录成功:
-    ![Image text](https://github.com/BigGoby/Python-Login-script/blob/raw/master/image/6.png)
+   ![Image text](https://github.com/BigGoby/Python-Login-script/blob/raw/master/image/6.png)
     
  ## 新浪微博
  https://weibo.com/
@@ -64,13 +64,13 @@ https://m.passport.sohu.com/
     - 验证码下载到本地,人工输入,如有需求可更改
     
     验证码输入:
-    ![Image text](https://github.com/BigGoby/Python-Login-script/blob/raw/master/image/1.png)
+   ![Image text](https://github.com/BigGoby/Python-Login-script/blob/raw/master/image/1.png)
     
     项目目录:
-    ![Image text](https://github.com/BigGoby/Python-Login-script/blob/raw/master/image/2.png)
+   ![Image text](https://github.com/BigGoby/Python-Login-script/blob/raw/master/image/2.png)
     
     登录成功:
-    ![Image text](https://github.com/BigGoby/Python-Login-script/blob/raw/master/image/3.png)
+   ![Image text](https://github.com/BigGoby/Python-Login-script/blob/raw/master/image/3.png)
     
     
     
